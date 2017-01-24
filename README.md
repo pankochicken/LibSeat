@@ -19,12 +19,17 @@ Our proposal for the app development project is to create LibSeat. LibSeat’s m
 
 The application will allow for three functions: 
 
-For the user to check-in with a table by scanning a QR code at that table
-To query which tables on each floor have been taken by other users of LibSeat in the library. Users will be able to filter results by floor and by number of available seats at a particular table.
-For the user to manually check-out when leaving a table, or to automatically check the user out if certain conditions are met. Example conditions of this are: 
-The user does not re-confirm their “check-in” after the duration times out (initial check-in duration set to 2 hours)
-The user leaves the location of the library, with the possible intention of reserving a table before attending class
-The user forgets to check-out from their table
+1. For the user to check-in with a table by scanning a QR code at that table
+
+2. To query which tables on each floor have been taken by other users of LibSeat in the library. Users will be able to filter results by floor and by number of available seats at a particular table.
+
+3. For the user to manually check-out when leaving a table, or to automatically check the user out if certain conditions are met. Example conditions of this are: 
+
+  - The user does not re-confirm their “check-in” after the duration times out (initial check-in duration set to 2 hours)
+
+  - The user leaves the location of the library, with the possible intention of reserving a table before attending class
+
+  - The user forgets to check-out from their table
 
 ## Additional Thoughts:
 
