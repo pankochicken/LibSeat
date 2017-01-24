@@ -1,18 +1,4 @@
-# LibSeat
-
-BUS 498-03​ iOS App Development
-Group Project Proposal
-
-Group participants:
-
-Nils Wilhelmsson
-
-Valerie Rose
-
-Eric Cuyle
-
-
-##Project Proposal:
+# LibSeat: BUS 498-03 - iOS App Development
 
 Our proposal for the app development project is to create LibSeat. LibSeat’s main purpose is to display available tables and seats at Cal Poly’s Robert E. Kennedy Library in an easy and convenient manner for the end user. The app will simplify the struggle among students to find an empty table by showing a map with the approximate location of that table.  
 
@@ -35,4 +21,10 @@ The application will allow for three functions:
 
 Because of the risk of an initial low adoption rate of the application, LibSeat can initially be used as a tool to inform the user which tables are currently not available, instead of the ideal purpose to inform users which tables are available. This implies that seats displayed in the application will have two states: (1) taken by another LibSeat user, or (2) available OR possibly available, depending on whether or not an individual occupying a table is using LibSeat.
 
+## Contributors
 
+Nils Wilhelmsson
+
+Valerie Rose
+
+Eric Cuyle
