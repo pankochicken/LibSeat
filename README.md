@@ -23,8 +23,8 @@ Because of the risk of an initial low adoption rate of the application, LibSeat 
 
 ## Contributors
 
-Nils Wilhelmsson
+Nils Wilhelmsson  -  @slughet
 
 Valerie Rose
 
-Eric Cuyle
+Eric Cuyle  -  @ecuyle
