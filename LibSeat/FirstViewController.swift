@@ -13,7 +13,7 @@ class FirstViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        print("Trying out push#10 from Xcode 8 to Github.")
+        print("Trying out push#11 from Xcode 8 to Github.")
     }
 
     override func didReceiveMemoryWarning() {
