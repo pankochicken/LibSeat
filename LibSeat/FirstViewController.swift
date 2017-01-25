@@ -14,7 +14,7 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
 
-        print("Trying out push#10 from Xcode 8 to Github.")
+        print("Trying out push#00001 from Xcode 8 to Github.")
 
     }
 
